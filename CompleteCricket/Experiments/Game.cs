@@ -1,0 +1,6 @@
+﻿namespace Experiments
+{
+  class Game
+  {
+  }
+}
